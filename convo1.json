@@ -1,0 +1,12 @@
+{
+    "titulo" : "Cierre Requerimientos Funcionales",
+    "saludo" :"Hola, se envia esta convocatoria en nombre del TS. " ,
+    "objetivo" : "El objetivo es cerrar los requerimientos funcionales del PPM recibido",
+    "body" : "Se plantearan las siguientes cuestiones:",
+    "recordatorio" : "RECUERDA iniciar la transcripcion de la sesion para que despues pueda extraer los datos que faltan.",
+    "despedida" : "Gracias. BeFast :)", 
+    "convocados" : ["TS@innovahack.onmicrosoft.com", "PO@innovahack.onmicrosoft.com", "BP@innovahack.onmicrosoft.com" ],
+    "fecha": "20-10-2023",
+    "hora":"9:00",
+    "duracion": 0.5
+}

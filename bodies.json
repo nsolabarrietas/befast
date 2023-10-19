@@ -1,0 +1,11 @@
+{
+    "body_TS_1" : "Hola TS. Te adjunto la primera version de la Documentacion Tecnica y Funcional. \nMe dices que te parece. Gracias. BeFast :)",
+    "tit_TS_1" : "Documentacion Funcional y Tecnica",
+    "tit_TS_2" : "Documentacion Final",
+    "tit_proveedores" : "PPM Documento Requerimientos",
+    "body_TS_2" : "Hola TS y PO. Os adjunto la Documentacion con la informacion tecnica, funcional y una valoracion de la planificacion e informacion presupuestaria. \nMe decis que os parece. Gracias. BeFast :)",
+    "body_proveedores" : "Hola. Te escribo en nombre del TS. \nTenemos una demanda de proyecto que nos gustaria que pudieseis desarrollar. \nAdjunto la documentacion con informacion tecnica y funcional. \nOs convocamos dentro de unos dias para resolver cualquier tipo de duda que tengais. \nMuchas gracias. BeFast :)",
+    "correo_director" : "Hola Director. Te escribo en nombre del TS. \nYa tenemos la valoracion del proveedor para el PPM. \nApruebalo cuando puedas por favor. Gracias. BeFast :) ",
+    "correo_rg" : "Hola Responsable de Compras. Te escribo en nombre del TS. \nYa tenemos la valoracion del proveedor para el PPM aprobado por el Director. \nPodrias aprobarlo tu tambien? Gracias. BeFast :) ",
+    "correo_kickoff": "Hola. Os escribo en nombre del TS. \nConvocamos esta reunion para "
+}

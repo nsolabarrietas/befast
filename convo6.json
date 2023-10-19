@@ -1,0 +1,9 @@
+{
+    "titulo" : "Kick Off",
+    "saludo" :"Hola, se envia esta convocatoria en nombre del TS. Os convoco al KickOff del proyecto." ,
+    "despedida" : "Gracias. BeFast :)", 
+    "convocados" : ["TS@innovahack.onmicrosoft.com", "PO@innovahack.onmicrosoft.com", "BP@innovahack.onmicrosoft.com" ],
+    "fecha": "2-11-2023",
+    "hora":"9:00",
+    "duracion": 0.5
+}

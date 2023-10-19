@@ -1,0 +1,8 @@
+{
+    "demanda_titulo" : "Cuadro de mando CCO N0",
+    "demanda_descripcion" : "El dashboard Cuadro de Mando Contact Center Cognitivo y Agentes pretende tener la informacion real y estructurada en un unico cuadro de mando e incluye: - toda la informacion de las consultas de las oficinas (desde noa n0 hasta 3r nivel ) - Se cargan datos a N-1 pero se puede analizar un periodo de tiempo determinado (mensual,periodo,dia concreto y acumulado) - Tendra una doble vision: graficos y datos en tablas y se puede descargar - Se debe tener la referencia del mismo dia del año/mes anterior.  - Debe haber un Glosario de facil acceso con la informacion de cada KPI, filtro con sus formulas y donde se encuentra el dato en datapool Engloba la nota mensual de calidad en todos esos canales y con links a otros informes. Este PPM es para pestaña n0",
+    "demanda_objetivo" : "",
+    "demanda_prioridad" : "01 - Muy Alta",
+    "demanda_servicio" : "modelo",
+    "demanda_peticionario" : "Caixabank"
+}

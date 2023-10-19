@@ -1,0 +1,10 @@
+{
+    "titulo" : "Resolucion dudas Proveedor 2",
+    "saludo" :"Hola, se envia esta convocatoria en nombre del TS. " ,
+    "objetivo" : "El objetivo es resolver las dudas",
+    "despedida" : "Gracias. BeFast :)", 
+    "convocados" : ["Proveedor2@innovahack.onmicrosoft.com", "TS@innovahack.onmicrosoft.com"],
+    "fecha": "24-10-2023",
+    "hora":"10:00",
+    "duracion": 0.5
+}

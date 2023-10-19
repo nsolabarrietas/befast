@@ -1,0 +1,10 @@
+{
+    "titulo" : "Presentacion Solucion / Valoracion (Proveedor 2)",
+    "saludo" :"Hola, se envia esta convocatoria en nombre del TS. " ,
+    "objetivo" : "El objetivo es presentar la solucion y valoracion del PPM presentado",
+    "despedida" : "Gracias. BeFast :)", 
+    "convocados" : ["Proveedor2@innovahack.onmicrosoft.com", "TS@innovahack.onmicrosoft.com"],
+    "fecha": "27-10-2023",
+    "hora":"10:00",
+    "duracion": 0.5
+}
